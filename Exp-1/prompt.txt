@@ -1,0 +1,22 @@
+hey gpt make perceptron python code for NAND and XOR gates using numpy and matplotlib
+
+add bias and initialize weights with zero
+
+print all input rows in every epoch showing
+target, predicted output, error and current weights in table format
+
+also plot the decision boundary and update it during training
+show correct and wrong points differently
+add delay for clear visualization
+
+for NAND gate, train till convergence
+for XOR gate, show that it does not converge
+
+after training, plot
+error vs epoch graph
+accuracy vs epoch graph
+for both NAND and XOR gates
+
+also calculate and print training accuracy and confusion matrix
+
+finally explain the working of perceptron in simple words and explain why XOR cannot be solved by a single perceptron
