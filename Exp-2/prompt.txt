@@ -1,0 +1,26 @@
+hey gpt make MLP python code for XOR gate using numpy and matplotlib
+
+use one hidden layer with sigmoid activation function
+
+initialize weights randomly and biases as zero
+
+plot sigmoid activation function graph for visualization
+
+print input rows at intervals during training showing
+target, predicted output and loss
+
+train the network using forward propagation and backpropagation
+
+store loss and accuracy values during training
+
+after training, plot
+loss vs epoch graph
+accuracy vs epoch graph
+
+also plot decision boundary showing nonlinear separation of XOR data
+
+finally calculate and print
+final predictions
+rounded predictions
+training accuracy
+confusion matrix
