@@ -1,0 +1,29 @@
+hey gpt I have this assignment objective "WAP to implement a three-layer neural network using TensorFlow library (only, no keras) to classify MNIST handwritten digits dataset and demonstrate feed-forward and back-propagation."
+
+I want python code using tensorflow only (not keras) to implement a 3 layer neural network for MNIST digit classification
+
+please write complete code that
+
+loads MNIST dataset
+preprocesses it properly
+creates a 3 layer neural network
+trains it
+and shows results clearly
+
+I don’t know the exact architecture or parameters so choose suitable values yourself
+
+while training print epoch wise output showing loss and accuracy
+
+also store values and plot graphs for
+loss vs epoch
+accuracy vs epoch
+
+after training show confusion matrix and some sample predictions
+
+also implement feed forward and backpropagation clearly in code so I can understand how they work
+
+use manual weight updates if possible so learning process is visible
+
+keep code clean simple and well commented because I need to explain it in viva
+
+also print final accuracy and loss at end
