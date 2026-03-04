@@ -1,0 +1,31 @@
+hey gpt I have this assignment objective
+"WAP to train and evaluate a convolutional neural network using Keras Library to classify MNIST fashion dataset. Demonstrate the effect of filter size, regularization, batch size and optimization algorithm on model performance."
+
+I want python code using TensorFlow with Keras to implement a CNN model for Fashion MNIST classification.
+
+please write complete code that
+
+loads the Fashion MNIST dataset
+preprocesses the images properly (normalization and reshaping)
+creates a convolutional neural network architecture
+trains the model and evaluates it on the test dataset
+
+I want the code to perform experiments by changing one parameter at a time while keeping others constant to demonstrate the effect of:
+
+• filter size (for example 3×3, 5×5, 7×7)
+• regularization techniques (None, L2 regularization, Dropout)
+• batch size (for example 32, 64, 128)
+• optimization algorithms (Adam, SGD, RMSprop)
+
+while training the model, print epoch wise output showing loss and accuracy
+
+also store the training values and plot graphs for
+
+• accuracy vs epoch
+• loss vs epoch
+
+after training each configuration, evaluate the model on the test dataset and print final test accuracy and loss
+
+also generate and display a confusion matrix to show classification performance.
+
+keep the code clean, well structured, and commented so that it is easy to understand and explain in viva.
