@@ -1,0 +1,4 @@
+Model,Test_Accuracy
+LSTM,90.34%
+GRU,90.83%
+Transformer,85.41%
