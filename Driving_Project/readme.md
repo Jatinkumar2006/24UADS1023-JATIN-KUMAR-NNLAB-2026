@@ -41,7 +41,7 @@ The system evaluates how safely a person drives a two-wheeler and classifies beh
 
 ## 📁 Project Structure
 
-
+<pre>
 Driving_Project/
 │
 ├── dataset/ # Raw sensor data (ignored in Git)
@@ -53,7 +53,7 @@ Driving_Project/
 ├── predict_driver.py # Final testing script
 ├── .gitignore
 └── README.md
-
+</pre>
 
 ---
 
