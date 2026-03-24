@@ -1,0 +1,46 @@
+hey gpt make python code using PyTorch for time series prediction using RNN
+
+use sine wave dataset or generate sequential data
+
+normalize the data properly using MinMaxScaler
+
+create sequences from data (like previous values → next value prediction)
+
+use RNN model with
+one layer
+hidden size around 50–64
+
+implement forward pass clearly (initialize hidden state, pass through RNN, take last output, pass through linear layer)
+
+split data into train, validation and test sets
+
+train the model for around 50 epochs
+
+print epoch wise output showing
+train loss and validation loss
+
+store both losses during training
+
+after training, plot
+loss vs epoch graph (train + validation)
+
+test the model on test data
+
+convert predictions back to original scale
+
+make predictions smoother (use moving average or similar)
+
+plot
+actual vs predicted values graph
+
+finally print
+final training loss
+final validation loss
+
+also write explanation for
+model (simple with formulas)
+code description (step by step)
+performance evaluation (based on graphs)
+and my comments (limitations + improvements in natural student style)
+
+keep everything simple, clean and easy to explain in viva
