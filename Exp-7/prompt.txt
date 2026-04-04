@@ -1,0 +1,31 @@
+hey gpt make python code using PyTorch for medical image classification using transfer learning
+
+objective:
+I want to classify chest X-ray images into normal and pneumonia using a pretrained model
+
+use ResNet18 pretrained on ImageNet
+
+load the dataset and apply proper preprocessing and normalization
+
+split the data into train, validation and test sets
+
+first train the model by freezing layers (transfer learning)
+then unfreeze some layers and fine-tune it to improve performance
+
+train the model for few epochs and show epoch-wise output with accuracy and loss
+
+I also want to see proper graphs like
+accuracy vs epoch
+loss vs epoch
+
+after training, evaluate the model on test data and print final accuracy
+
+also generate confusion matrix and show some sample predictions
+
+along with code, also give explanation for
+model
+code working
+performance based on graphs
+and limitations/improvements
+
+keep everything simple, clean and easy to explain in viva
